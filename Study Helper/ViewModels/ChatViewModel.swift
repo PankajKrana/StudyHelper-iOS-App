@@ -7,7 +7,7 @@
 
 import SwiftUI
 import SwiftData
-internal import Combine
+import Combine
 
 @MainActor
 class ChatViewModel: ObservableObject {

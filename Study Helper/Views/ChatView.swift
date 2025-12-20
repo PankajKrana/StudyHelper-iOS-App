@@ -7,7 +7,7 @@
 
 import SwiftUI
 import SwiftData
-internal import Combine
+import Combine
 
 struct ChatView: View {
     @Environment(\.modelContext) private var context
